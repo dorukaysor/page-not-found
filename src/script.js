@@ -18,10 +18,12 @@ function getDecodedURL() {
 window.addEventListener("load", () => {
   const redirectURL = getDecodedURL();
   const iDareBtn = document.getElementById("go-back-btn");
-
-  if (redirectURL) {
-    iDareBtn.href = redirectURL;
-  } else {
-    iDareBtn.href = "/"; // Fallback
-  }
+  
+  iDareBtn.addEventListener("click", () => {
+    if (redirectURL) {
+      iDareBtn.href = redirectURL;
+    } else {
+      iDareBtn.href = "/"; // Fallback
+    };
+  });
 });
