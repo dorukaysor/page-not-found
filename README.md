@@ -2,13 +2,15 @@
 <h1>404 Error</h1>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-<div align=center>
+<img align=center src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 • You are not lost yet. <br>
 • Go back and enjoy your life!
 
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <div align=center>
 
 You can also go forward to get lost, using the button below!
