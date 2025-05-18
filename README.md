@@ -15,6 +15,6 @@
 
 You can also go forward to get lost, using the button below!
 
-[![Touch Some Grass](https://img.shields.io/badge/Loneliness-%23000000.svg?style=for-the-badge&logo=meteor&logoColor=FF7139)](https://dorukaysor.github.com/page-not-found/)
+[![Touch Some Grass](https://img.shields.io/badge/Loneliness-%23000000.svg?style=for-the-badge&logo=meteor&logoColor=FF7139)](https://dorukaysor.github.io/page-not-found/)
 
 </div>
