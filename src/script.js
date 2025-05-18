@@ -15,15 +15,6 @@ function getDecodedURL() {
   }
 }
 
-window.addEventListener("load", () => {
-  const redirectURL = getDecodedURL();
-  const iDareBtn = document.getElementById("go-back-btn");
-  
-  iDareBtn.addEventListener("click", () => {
-    if (redirectURL) {
-      iDareBtn.href = redirectURL;
-    } else {
-      iDareBtn.href = "/"; // Fallback
-    };
-  });
+document.getElementById("i-dare-btn").addEventListener("click", () => {
+  window.history.back();
 });
