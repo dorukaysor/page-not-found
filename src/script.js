@@ -5,7 +5,7 @@ var parallax = new Parallax(scene);
 // Decode 'q' parameter from URL
 function getDecodedURL() {
   const params = new URLSearchParams(window.location.search);
-  const encoded = params.get("q");
+  const encoded = params.get("re");
   if (!encoded) return null;
   try {
     return atob(encoded);
